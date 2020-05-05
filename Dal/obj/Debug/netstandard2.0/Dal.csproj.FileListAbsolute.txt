@@ -1,0 +1,24 @@
+c:\Users\Martinez\Documents\Web\Proyecto Web\Dal\bin\Debug\netstandard2.0\Dal.deps.json
+c:\Users\Martinez\Documents\Web\Proyecto Web\Dal\bin\Debug\netstandard2.0\Dal.dll
+c:\Users\Martinez\Documents\Web\Proyecto Web\Dal\bin\Debug\netstandard2.0\Dal.pdb
+c:\Users\Martinez\Documents\Web\Proyecto Web\Dal\bin\Debug\netstandard2.0\Entity.dll
+c:\Users\Martinez\Documents\Web\Proyecto Web\Dal\bin\Debug\netstandard2.0\Entity.pdb
+c:\Users\Martinez\Documents\Web\Proyecto Web\Dal\obj\Debug\netstandard2.0\Dal.csprojAssemblyReference.cache
+c:\Users\Martinez\Documents\Web\Proyecto Web\Dal\obj\Debug\netstandard2.0\Dal.csproj.CoreCompileInputs.cache
+c:\Users\Martinez\Documents\Web\Proyecto Web\Dal\obj\Debug\netstandard2.0\Dal.AssemblyInfoInputs.cache
+c:\Users\Martinez\Documents\Web\Proyecto Web\Dal\obj\Debug\netstandard2.0\Dal.AssemblyInfo.cs
+c:\Users\Martinez\Documents\Web\Proyecto Web\Dal\obj\Debug\netstandard2.0\Dal.csproj.CopyComplete
+c:\Users\Martinez\Documents\Web\Proyecto Web\Dal\obj\Debug\netstandard2.0\Dal.dll
+c:\Users\Martinez\Documents\Web\Proyecto Web\Dal\obj\Debug\netstandard2.0\Dal.pdb
+C:\Users\enmod\OneDrive\Escritorio\proyecto\ProyectoWeb-master\Dal\bin\Debug\netstandard2.0\Dal.deps.json
+C:\Users\enmod\OneDrive\Escritorio\proyecto\ProyectoWeb-master\Dal\bin\Debug\netstandard2.0\Dal.dll
+C:\Users\enmod\OneDrive\Escritorio\proyecto\ProyectoWeb-master\Dal\bin\Debug\netstandard2.0\Dal.pdb
+C:\Users\enmod\OneDrive\Escritorio\proyecto\ProyectoWeb-master\Dal\bin\Debug\netstandard2.0\Entity.dll
+C:\Users\enmod\OneDrive\Escritorio\proyecto\ProyectoWeb-master\Dal\bin\Debug\netstandard2.0\Entity.pdb
+C:\Users\enmod\OneDrive\Escritorio\proyecto\ProyectoWeb-master\Dal\obj\Debug\netstandard2.0\Dal.csprojAssemblyReference.cache
+C:\Users\enmod\OneDrive\Escritorio\proyecto\ProyectoWeb-master\Dal\obj\Debug\netstandard2.0\Dal.csproj.CoreCompileInputs.cache
+C:\Users\enmod\OneDrive\Escritorio\proyecto\ProyectoWeb-master\Dal\obj\Debug\netstandard2.0\Dal.AssemblyInfoInputs.cache
+C:\Users\enmod\OneDrive\Escritorio\proyecto\ProyectoWeb-master\Dal\obj\Debug\netstandard2.0\Dal.AssemblyInfo.cs
+C:\Users\enmod\OneDrive\Escritorio\proyecto\ProyectoWeb-master\Dal\obj\Debug\netstandard2.0\Dal.csproj.CopyComplete
+C:\Users\enmod\OneDrive\Escritorio\proyecto\ProyectoWeb-master\Dal\obj\Debug\netstandard2.0\Dal.dll
+C:\Users\enmod\OneDrive\Escritorio\proyecto\ProyectoWeb-master\Dal\obj\Debug\netstandard2.0\Dal.pdb
